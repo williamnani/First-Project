@@ -97,7 +97,7 @@ body * {
   border: 1px solid var(--stroke-color);
   background: var(--surface-color);
   backdrop-filter: blur(4px);
-  border-radius: 9999px;
+  border-radius: 99995px;
 }
 
 /* links */
@@ -174,18 +174,22 @@ footer {
   @keyframes slide-in {
     from{
       left: 0;
+      border-radius: 50%;
     }
     to{
       left: 50%;
+      border-radius: 50%;
     }
   }
 
   @keyframes slide-out {
     from{
       left: 50%;
+      border-radius: 50%;
     }
     to{
       left: 0;
+      border-radius: 50%;
     }
 
 
