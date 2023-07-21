@@ -1,0 +1,9 @@
+// udemy: https://www.udemy.com/course/introducao-ao-javascript/learn/lecture/15848556#overview
+
+// jornada do dev: https://jornadadodev.com.br/cursos/curso-completo-de-javascript
+
+// cursou.com: https://www.cursou.com.br/informatica/programacao/javascript/javascript-super-saiyajin/
+
+// fbv cursos: https://www.fbvcursos.com/curso/curso-gratuito-de-javascript-para-iniciantes
+
+// schoolnet: https://www.schoolofnet.com/curso/frontend/javascript/iniciando-com-javascript-rev3/
